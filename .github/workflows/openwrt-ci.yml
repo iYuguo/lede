@@ -130,6 +130,9 @@ jobs:
           # CONFIG_PACKAGE_luci-app-webadmin=y
           # CONFIG_PACKAGE_luci-app-wireguard=y
           # CONFIG_PACKAGE_luci-app-wrtbwmon=y
+          CONFIG_PACKAGE_luci-i18n-p910nd-zh-cn=y
+          CONFIG_PACKAGE_kmod-usb-printer=y
+          CONFIG_PACKAGE_luci-i18n-base-zh-cn=y
           # EOF
           # LuCI主题:
           # cat >> .config <<EOF
